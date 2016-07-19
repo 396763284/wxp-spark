@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "reactImg",
+    "style": "sass",
+    "postcss": false,
+    "generatedWithVersion": 3
+  }
+}
